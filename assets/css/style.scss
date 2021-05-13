@@ -3,8 +3,8 @@
 ---
 
 // Colors
-$primary: #E5261F;
-$secondary: #f88379;
+$primary: #F10662;
+$secondary: darken($primary, 10%);
 $black: #2f2f41;
 $white: #ffffff;
 $white-offset: #fff6f8;
@@ -17,8 +17,15 @@ $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
 
 // Fonts
-$font-family-base: Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: 'Playfair Display', serif, -apple-system;
+@font-face {
+  font-family: "roboto";
+  src: url("../fonts/TitilliumWeb-Regular.ttf");
+}
+
+//$font-family-base: Helvetica, Arial, sans-serif, -apple-system;
+$font-family-base: roboto, Arial, sans-serif, -apple-system;
+//$font-family-heading: 'Playfair Display', serif, -apple-system;
+$font-family-heading: roboto, Arial, sans-serif, -apple-system;
 
 // Footer
 $footer-background-color: $primary;
