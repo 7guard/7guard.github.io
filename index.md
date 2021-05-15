@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Concerned about your cyber security status?
+# Cloud Security, SecDevOps, Incident Response, Penetration Testing and more
 
-Contact us now and benefit from our expertise.
+Check out our services and/or get in contact.

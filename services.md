@@ -1,11 +1,11 @@
 ---
 title: Services
 layout: services
-#intro_image: "images/illustrations/reading.svg"
+intro_image: "images/illustrations/test.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# Services that keep your business safe
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Cyber security is a rapidly changing field, which is why we are constantly restructuring and expanding our service portfolio in order to meet your most demanding business needs.
